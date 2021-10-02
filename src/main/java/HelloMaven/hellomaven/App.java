@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello Maven!" );
         System.out.println( "Hello weebhook!" );
-        System.out.println( "Hello weebhook!" );
+        System.out.println( "Hello weebhook2" );
 
     }
 }

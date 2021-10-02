@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-02T22:00:33Z" name="Default suite" finished-at="2021-10-02T22:00:33Z" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2021-10-02T22:00:33Z" name="Default test" finished-at="2021-10-02T22:00:33Z" duration-ms="53">
+      <class name="HelloMaven.hellomaven.AppTest">
+        <test-method signature="testApp()[pri:0, instance:HelloMaven.hellomaven.AppTest@6e0f5f7f]" started-at="2021-10-02T22:00:33Z" name="testApp" finished-at="2021-10-02T22:00:33Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- HelloMaven.hellomaven.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
